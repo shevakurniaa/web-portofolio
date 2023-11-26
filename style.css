@@ -109,7 +109,8 @@ nav ul li a{
  
 .hire-btn{
     border: 2px solid #000000;
-    color: #white;
+    background-color: #000000;
+    font-color: #white;
 }
  
 .down-cv{
