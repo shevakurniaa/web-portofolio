@@ -25,7 +25,7 @@ nav{
     justify-content: space-between;
     align-items:center;
     height:60px;
-    background-color:#deb887;
+    background-color:#be93c5;
     box-shadow:2px 2px 12px rgba(0,0,0,0.2);
     padding:0px 5%;
      
@@ -37,7 +37,7 @@ nav ul{
 nav ul li a{
     margin:30px;
     font-family:RoadTest;
-    color:#505050;
+    color:#000000;
     font-size: 15px;
     font-weight:700;
 }
@@ -207,7 +207,7 @@ footer{
     align-items: center;
     justify-content: center;
     position: relative;
-    background-image: #877a84;
+    background-image: #76bdda;
 }
  
 .social-icons{
