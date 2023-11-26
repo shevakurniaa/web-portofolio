@@ -108,13 +108,13 @@ nav ul li a{
 }
  
 .hire-btn{
-    border: 2px solid #877a84;
-    color: #0b0b0b;
+    border: 2px solid #000000;
+    color: #white;
 }
  
 .down-cv{
-    background-color: #877a84;
-    color: #0b0b0b;
+    background-color: #000000;
+    color: #white;
     border: none;
 }
  
